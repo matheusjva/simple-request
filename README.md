@@ -1,5 +1,7 @@
 # Simple Request
 
+<img src="image.png" alt="imagem">
+
 > This repository exemplifies how we can make simple requests using Fetch and Xhr.
 
 ### What does this code do?
